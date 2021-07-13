@@ -1,6 +1,6 @@
 {
   "name": "Zonline-Admin",
-  "version": "3.6.0",
+  "version": "1.0.0",
   "private": true,
   "description": "A sample Node.js app using Express",
   "main": "server.js",
